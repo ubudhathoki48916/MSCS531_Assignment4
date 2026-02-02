@@ -1,0 +1,19 @@
+Basic pipeline simulation...
+Instructions committed: 1000
+Instructions per Cycle: 0.5
+Total cycles: 2000
+
+Simulation with branch prediction...
+Instructions committed: 1000
+Instructions per Cycle: 0.7
+Total cycles: 1429
+
+Superscalar configuration...
+Instructions committed: 1000
+Instructions per Cycle: 1.2
+Total cycles: 833
+
+SMT configuration with 2 threads...
+Instructions committed: 2000
+Instructions per Cycle: 1.5
+Total cycles: 1333
